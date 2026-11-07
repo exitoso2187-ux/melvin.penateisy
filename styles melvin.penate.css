@@ -1,0 +1,1 @@
+body{font-family:Arial,sans-serif;background:#f4f4f4}.container{max-width:800px;margin:40px auto;padding:20px}h1{text-align:center}.busqueda{display:flex;gap:10px}input{flex:1;padding:10px}button{padding:10px 20px;background:#0078d4;color:#fff;border:none}#resultado{background:#fff;margin-top:20px;padding:20px;border-radius:8px}.error{color:red}img{max-width:200px}
